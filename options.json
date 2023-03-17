@@ -1,0 +1,7 @@
+{
+    "final_workflow_outputs_dir": "/data2/JD/runs/outputs",
+    "use_relative_output_paths": false,
+    "final_workflow_log_dir": "/data2/JD/runs/wf_logs",
+    "final_call_logs_dir": "/data2/JD/runs/call_logs"
+}
+
