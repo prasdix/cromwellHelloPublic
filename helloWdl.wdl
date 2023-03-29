@@ -1,8 +1,8 @@
 version 1.0
 
-import "tasks/t1.wdl" as t1
-import "scripts/t2.wdl" as t2
-import "t3.wdl" as t3
+import "https://github.com/prasdix/cromwellHelloPublic/tasks/t1.wdl" as t1
+import "https://github.com/prasdix/cromwellHelloPublic/scripts/t2.wdl" as t2
+import "https://github.com/prasdix/cromwellHelloPublic/t3.wdl" as t3
 
 workflow wf {
     input {
